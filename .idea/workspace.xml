@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af2eaadf-7fa5-4957-8a25-8619d40ee07a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13.4/libexec" />
+  <component name="ProjectId" id="1W0kjZh45VprlF3ImXBVwBSm11M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build go-vue-spa (1)">
+    <configuration name="go build go-vue-spa (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-vue-spa" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/server.go" />
+      <package value="go-vue-spa" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go-vue-spa" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-vue-spa" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="go-vue-spa" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build go-vue-spa (1)" />
+        <item itemvalue="Go Build.go build go-vue-spa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="753" y="61" key="#go_build_go-vue-spa" timestamp="1578300527092">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="753" y="61" key="#go_build_go-vue-spa/0.23.1440.823@0.23.1440.823" timestamp="1578300527092" />
+    <state x="753" y="61" key="#go_build_go-vue-spa_(1)" timestamp="1578300713671">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="753" y="61" key="#go_build_go-vue-spa_(1)/0.23.1440.823@0.23.1440.823" timestamp="1578300713671" />
+    <state width="712" height="414" key="GridCell.Tab.0.bottom" timestamp="1578301239242">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="712" height="414" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1578301239242" />
+    <state width="712" height="414" key="GridCell.Tab.0.center" timestamp="1578301239241">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="712" height="414" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1578301239241" />
+    <state width="712" height="414" key="GridCell.Tab.0.left" timestamp="1578301239241">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="712" height="414" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1578301239241" />
+    <state width="712" height="414" key="GridCell.Tab.0.right" timestamp="1578301239242">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="712" height="414" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1578301239242" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/models/entity/product.go</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
